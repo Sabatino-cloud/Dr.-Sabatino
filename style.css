@@ -424,6 +424,13 @@ body {
     padding: 0.75rem 1.5rem 1rem;
     display: none;
   }
+@media (max-width: 768px) {
+  .logo-title,
+  .logo-sub {
+    padding-left: 0.6rem;
+  }
+}
+
 
   .nav.nav-open {
     display: flex;
