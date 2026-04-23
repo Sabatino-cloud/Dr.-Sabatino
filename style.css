@@ -427,7 +427,7 @@ body {
 @media (max-width: 768px) {
   .logo-title,
   .logo-sub {
-    padding-left: 1.2rem;
+    padding-left: 2rem;
   }
 }
 
